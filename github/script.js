@@ -1,0 +1,1 @@
+// this is javascript file but i don't know what to write I will write somthing in it very soon
